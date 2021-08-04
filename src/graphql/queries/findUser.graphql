@@ -1,0 +1,3 @@
+query findUser($id: Int!) {
+  findUser(id: $id)
+}

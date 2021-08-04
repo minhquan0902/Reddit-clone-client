@@ -1,0 +1,6 @@
+query ListUser {
+  listUser {
+    _id
+    username
+  }
+}

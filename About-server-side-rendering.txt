@@ -1,0 +1,9 @@
+User => browser http://localhost:3000
+
+=> next.js server
+=> request graphql server localhost:4000
+=> building the HTML
+=> sending back to the browser
+
+
+*note: SSR might makes the page loads a bit slower at the beginning but when the page already loaded successfully, everything will be very fast
