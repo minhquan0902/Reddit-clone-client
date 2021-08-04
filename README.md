@@ -36,9 +36,9 @@ The project was inspired by Ben Awad: https://www.youtube.com/watch?v=I6ypD7qv3Z
    
    c. Install all dependencies and package by typing this to the terminal at root folder
          
-         ```
+         
           $ yarn install
-         ```
+        
          
 3. Run the project 
 
