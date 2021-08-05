@@ -4,6 +4,8 @@ Front End code for Reddit-Clone
 
 Official Website: https://quanredditcloneee.xyz/
 
+Hosting provided by Vercel
+
 Link to Backend: https://github.com/minhquan0902/Reddit-clone-server
 
 ![Github3](https://user-images.githubusercontent.com/58071533/128239582-9c7ad497-c73b-431e-aeb9-67f1725a9e82.png)
